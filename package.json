@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names-reload",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etrivinos/starwars-names-reload.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Edwin A. Trivinos Ramirez <edwin.trivinos@hotmail.com> (http://etrivinos.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etrivinos/starwars-names-reload/issues"
+  },
+  "homepage": "https://github.com/etrivinos/starwars-names-reload#readme",
+  "devDependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
